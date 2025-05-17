@@ -1,0 +1,8 @@
+Pipfile
+Pipfile.lock
+create_ifrs1_excel.py
+create_ifrs2_excel.py
+create_ifrs3_excel.py
+create_ifrs5_excel.py
+sandbox.txt
+todo.md

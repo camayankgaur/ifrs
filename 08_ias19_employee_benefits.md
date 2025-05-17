@@ -1,0 +1,53 @@
+## IAS 19: Employee Benefits
+
+**Objective:** The objective of IAS 19 Employee Benefits is to prescribe the accounting and disclosure for employee benefits. The Standard requires an entity to recognise: (a) a liability when an employee has provided service in exchange for employee benefits to be paid in the future; and (b) an expense when the entity consumes the economic benefit arising from service provided by an employee in exchange for employee benefits.
+
+**Scope:** IAS 19 applies to all employee benefits, except for those to which IFRS 2 Share-based Payment applies. Employee benefits are all forms of consideration given by an entity in exchange for service rendered by employees or for the termination of employment. IAS 19 identifies four categories of employee benefits:
+
+1.  **Short-term employee benefits:** Employee benefits (other than termination benefits) that are expected to be settled wholly before twelve months after the end of the annual reporting period in which the employees render the related service. Examples include wages, salaries, social security contributions, paid annual leave and paid sick leave, profit-sharing and bonuses (if payable within twelve months of the end of the period) and non-monetary benefits (such as medical care, housing, cars and free or subsidised goods or services) for current employees.
+2.  **Post-employment benefits:** Employee benefits (other than termination benefits and short-term employee benefits) that are payable after the completion of employment. Examples include pensions, other retirement benefits (e.g., post-employment life insurance and post-employment medical care).
+3.  **Other long-term employee benefits:** All employee benefits other than short-term employee benefits, post-employment benefits and termination benefits. Examples include long-service leave or sabbatical leave, jubilee or other long-service benefits, long-term disability benefits and, if they are not expected to be settled wholly before twelve months after the end of the annual reporting period in which the employees render the related service, profit-sharing, bonuses and deferred compensation.
+4.  **Termination benefits:** Employee benefits provided in exchange for the termination of an employee’s employment as a result of either: (a) an entity’s decision to terminate an employee’s employment before the normal retirement date; or (b) an employee’s decision to accept an offer of benefits in exchange for the termination of employment.
+
+**Key Principles:**
+
+*   **Short-term Employee Benefits:** Accounting for short-term employee benefits is generally straightforward because no actuarial assumptions are required to measure the obligation or the cost and there is no possibility of any actuarial gain or loss. Obligations are measured on an undiscounted basis. An entity recognises the undiscounted amount of short-term employee benefits expected to be paid in exchange for that service as a liability (accrued expense) after deducting any amount already paid, and as an expense, unless another IFRS requires or permits the inclusion of the benefits in the cost of an asset (e.g., IAS 2 Inventories or IAS 16 Property, Plant and Equipment).
+
+*   **Post-employment Benefits - Defined Contribution Plans vs. Defined Benefit Plans:** Post-employment benefit plans are classified as either defined contribution plans or defined benefit plans, depending on the economic substance of the plan as derived from its principal terms and conditions.
+    *   **Defined Contribution Plans:** These are post-employment benefit plans under which an entity pays fixed contributions into a separate entity (a fund) and will have no legal or constructive obligation to pay further contributions if the fund does not hold sufficient assets to pay all employee benefits relating to employee service in the current and prior periods. The entity’s obligation for each period is determined by the amounts to be contributed for that period. Consequently, actuarial assumptions are not required to measure the obligation or the expense and there is no possibility of any actuarial gain or loss. The expense recognised is the contribution payable for the period.
+    *   **Defined Benefit Plans:** These are post-employment benefit plans other than defined contribution plans. Under defined benefit plans, the entity’s obligation is to provide the agreed benefits to current and former employees, and actuarial risk (that benefits will cost more than expected) and investment risk fall, in substance, on the entity. Accounting for defined benefit plans is complex because actuarial assumptions are required to measure the obligation and the expense and there is a possibility of actuarial gains and losses. The obligation is measured on a discounted basis.
+        *   **Recognition and Measurement:** The defined benefit obligation (DBO) is the present value of expected future payments required to settle the obligation resulting from employee service in the current and prior periods. Plan assets are assets held by a long-term employee benefit fund. The amount recognised in the statement of financial position is the net defined benefit liability (or asset), being the DBO less the fair value of plan assets (if any).
+        *   **Components of Defined Benefit Cost:** Recognised in profit or loss: (i) current service cost; (ii) past service cost and gains/losses on settlement; (iii) net interest on the net defined benefit liability (asset). Recognised in other comprehensive income (OCI): remeasurements of the net defined benefit liability (asset), which comprise: (i) actuarial gains and losses; (ii) return on plan assets (excluding amounts included in net interest); and (iii) any change in the effect of the asset ceiling (excluding amounts included in net interest). Remeasurements recognised in OCI are not reclassified to profit or loss in subsequent periods.
+        *   **Actuarial Assumptions:** These are an entity’s best estimates of the variables that will determine the ultimate cost of providing post-employment benefits. They include demographic assumptions (e.g., mortality, employee turnover, disability, early retirement) and financial assumptions (e.g., discount rate, future salary and benefit levels, future medical costs).
+
+*   **Other Long-term Employee Benefits:** The accounting for other long-term employee benefits is similar to that for defined benefit plans, except that all components of the benefit cost (including remeasurements) are recognised in profit or loss, not OCI.
+
+*   **Termination Benefits:** An entity recognises a liability and expense for termination benefits at the earlier of the following dates: (a) when the entity can no longer withdraw the offer of those benefits; and (b) when the entity recognises costs for a restructuring that is within the scope of IAS 37 and involves the payment of termination benefits. Termination benefits are measured at their present value if they are expected to be settled wholly before twelve months after the end of the annual reporting period in which the termination benefit is recognised.
+
+**Disclosure:** IAS 19 requires extensive disclosures, particularly for defined benefit plans. These include reconciliations of the opening and closing balances of the net defined benefit liability (asset) and the DBO and plan assets, details of the characteristics of defined benefit plans and risks associated with them, explanations of amounts in the financial statements, and information about actuarial assumptions and sensitivity analyses.
+
+**Practical Example Scenario (Defined Benefit Pension Plan):**
+
+Global Corp. operates a defined benefit pension plan for its employees. At the beginning of 20X1, the present value of its Defined Benefit Obligation (DBO) was $10 million, and the fair value of plan assets was $9 million, resulting in a net defined benefit liability of $1 million.
+During 20X1:
+*   Current service cost (cost of benefits earned by employees in 20X1) was $0.8 million.
+*   The discount rate used to calculate net interest was 5%.
+*   Contributions paid to the plan by Global Corp. were $0.7 million.
+*   Benefits paid from the plan to retirees were $0.5 million.
+*   At the end of 20X1, actuarial calculations resulted in a DBO of $11.5 million (after considering service cost, interest, and benefits paid, but before new actuarial gains/losses). The fair value of plan assets was $9.8 million (after considering contributions, benefits paid, and actual return on assets).
+
+Calculations for 20X1:
+*   **Net interest on net defined benefit liability:** $1 million (net liability) * 5% = $0.05 million (expense).
+*   **Components of defined benefit cost in P&L:** Current service cost $0.8m + Net interest expense $0.05m = $0.85 million.
+*   **Expected DBO at year-end (before actuarial changes):** $10m (opening) + $0.8m (service cost) + ($10m * 5% interest on DBO) - $0.5m (benefits paid) = $10.8 million.
+*   **Expected Plan Assets at year-end (before actual return differences):** $9m (opening) + $0.7m (contributions) + ($9m * 5% expected return) - $0.5m (benefits paid) = $9.65 million.
+*   **Actual DBO at year-end:** $11.5 million. Actuarial loss on DBO = $11.5m - $10.8m = $0.7 million.
+*   **Actual Plan Assets at year-end:** $9.8 million. Actual return on plan assets = $9.8m - $9m (opening) - $0.7m (contributions) + $0.5m (benefits paid) = $0.6 million. Expected return was $0.45m ($9m * 5%). So, return on plan assets exceeding interest income = $0.6m - $0.45m = $0.15 million (gain).
+*   **Remeasurements in OCI:** Actuarial loss on DBO ($0.7m) + Gain on plan assets ($0.15m) = Net remeasurement loss of $0.55 million.
+*   **Net defined benefit liability at end of 20X1:** $11.5m (DBO) - $9.8m (Plan Assets) = $1.7 million.
+
+This simplified example illustrates the complexity involved in accounting for defined benefit plans, with various components affecting profit or loss and other comprehensive income.
+
+**Key Takeaways for IAS 19:**
+
+IAS 19 provides a comprehensive framework for accounting for all types of employee benefits. The distinction between defined contribution and defined benefit plans is crucial, as the accounting for defined benefit plans is significantly more complex, involving actuarial valuations and the recognition of remeasurements in OCI. The standard aims to ensure that the cost of providing employee benefits is recognised in the period in which the service is rendered by employees, and that the related obligations are appropriately reflected in the statement of financial position. Extensive disclosures are required to help users understand an entity’s commitments and the associated risks.
